@@ -1,0 +1,12 @@
+# ==== Prefix ====
+# feat:     :sparkles:        新機能
+# fix:      :fire:            バグ修正
+# docs:     :book:            ドキュメントのみの変更
+# style:    :eyes:            フォーマットの変更（コードの動作に影響しないスペース、フォーマット、セミコロンなど）
+# refactor: :recycle:         リファクタリングのための変更（機能追加やバグ修正を含まない）
+# perf:     :rocket:          パフォーマンスの改善のための変更
+# test:     :rotating_light:  不足テストの追加や既存テストの修正
+# build:    :wrench:          ビルドシステムや外部依存に関する変更（スコープ例: gulp, broccoli, npm）
+# ci:       :octocat:         CI用の設定やスクリプトに関する変更（スコープ例: Travis, Circle, BrowserStack, SauceLabs)
+# chore:    :question:        その他の変更（ソースやテストの変更を含まない）
+# revert:   :back:            以前のコミットに復帰
